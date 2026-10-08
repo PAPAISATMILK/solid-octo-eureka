@@ -1,0 +1,5 @@
+{
+  "server_url": "https://YOUR-COMMAND-ENDPOINT.example.com/pc-agent/commands",
+  "token": "place yours here",
+  "poll_seconds": 5
+}
